@@ -5,5 +5,5 @@ button.addEventListener("click",(event)=>{
 	let ln=document.getElementById("ln");
 	let pn=document.getElementById("pn");
 	let ed=document.getElementById("ed")
-	alert("First Name "+fn.value+" Last Name "+ln.value+" Phone Number: "+pn.value+" Email ID: "+ed.value);
+	alert("First Name: "+fn.value+" Last Name: "+ln.value+" Phone Number: "+pn.value+" Email ID: "+ed.value);
 })
